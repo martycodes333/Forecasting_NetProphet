@@ -2,7 +2,7 @@
 
 ---
 
-This is a Google Colab created code used with the assitance of Pandas to create an analysis of the growth of MercadoLibre, a popular e-commerce site located in Latin America. The analysis was conducted with the help of google hourly search trends, mercado daily revenue, and mercados daily equity closing data.
+This is a Google Colab created code used with the assitance of Pandas to create an analysis of the growth of MercadoLibre, a popular e-commerce site located in Latin America. The analysis was conducted with the help of google hourly search trends, mercado daily revenue, and mercados daily equity closing data. Time series forcasting was an important part of the analysis and helped bring the story of MercadoLibre's journey to life!
 ## Technologies
 
 This project uses python 3.7 with the following packages:
